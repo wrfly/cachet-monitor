@@ -1,5 +1,5 @@
 cachet:
-  api: http://1.1.1.1:1111/api/v1
+  addr: http://1.1.1.1:1111/api/v1
   token: 111111
 targets:
   - component: server1
