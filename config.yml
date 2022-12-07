@@ -1,0 +1,12 @@
+cachet:
+  api: http://1.1.1.1:1111/api/v1
+  token: 111111
+targets:
+  - component: server1
+    url: https://www.google1.com
+    code: 200
+    interval: 1m
+  - component: server2
+    url: https://www.google2.com
+    code: 200
+    interval: 1m
